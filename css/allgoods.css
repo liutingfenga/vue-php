@@ -1,0 +1,19 @@
+.goods {
+    height: 100%;
+    margin-bottom: 60px;
+}
+
+.list-box {
+    width: 200px;
+    padding: 0px;
+    margin: 10px;
+    border: 1px #e8e8e8 solid;
+    background: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+.list-box img {
+    width: 200px;
+    height: 200px;
+}

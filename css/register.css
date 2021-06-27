@@ -1,0 +1,14 @@
+.el-input__inner {
+    height: 54px;
+    background-color: #f7fafc;
+    border-color: #edf2f7;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:#a0aec0;
+}
+
+[v-cloak] {
+    display: none;
+  }

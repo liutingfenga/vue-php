@@ -1,0 +1,35 @@
+
+
+.gg {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #f1f4f9;
+}
+
+.el-collapse-item__header {
+    height: 65px;
+    line-height: 65px;
+    font-size: 16px;
+  
+}
+
+.el-tabs--left .el-tabs__header.is-left {
+    width: 150px;
+    height: 45%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.el-tabs--left .el-tabs__item.is-left {
+    text-align: center;
+}
+
+.el-tabs--left .el-tabs__item.is-left {
+    font-size: 18px;
+}
+
+.text {
+    font-size: 16px;
+}

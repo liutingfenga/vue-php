@@ -1,0 +1,31 @@
+.neirong {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    
+}
+
+.guanyu {
+    color: rgb(255, 255, 255);
+    height: 600px;
+    background-image: url("../images/about.png");
+    background-size:cover;
+    box-sizing: border-box;
+    padding-top: 145px;
+    border-radius: 60px;
+ 
+}
+
+.guanyu h1 {
+   
+    margin-left: 250px;
+}
+.guanyu p{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 15px;
+    text-align: left;
+}
