@@ -6,4 +6,4 @@ php实训项目，特来开源仅供新手参考
 
 
 #首页设计
-![Uploading localhost_duola_.png…]()
+[![RYiwaq.jpg](https://z3.ax1x.com/2021/06/27/RYiwaq.jpg)](https://imgtu.com/i/RYiwaq)
