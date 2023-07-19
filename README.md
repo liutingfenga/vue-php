@@ -1,5 +1,6 @@
 # vue-php-玩具购物商城
-Vue.js+PHP前后端分离实训项目，全开源供新手学习
+Vue.js+PHP前后端分离实训项目，前端后端，毕设、期末大作业
+全开源供新手学习
 
 
 
@@ -13,7 +14,6 @@ Vue.js+PHP前后端分离实训项目，全开源供新手学习
 # 前台设计
 
 [![RYiwaq.jpg](https://z3.ax1x.com/2021/06/27/RYiwaq.jpg)](https://imgtu.com/i/RYiwaq)
-
 
 
 
